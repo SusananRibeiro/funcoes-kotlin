@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a544af58-4837-4ad3-80e0-37aced63976c" name="Changes" comment="" />
+    <list default="true" id="a544af58-4837-4ad3-80e0-37aced63976c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funcoes/FuncaoComoParam1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funcoes/FuncaoComoParam2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funcoes/Inline1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funcoes/Inline2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,16 +43,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.UnitReturnKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.FuncaoComoParam1Kt">
     <configuration name="ChamandoFuncaoKotlin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="funcoes.ChamandoFuncaoKotlin" />
       <module name="funcoes-kotlin" />
@@ -67,15 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncaoInfixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funcoes.FuncaoInfixKt" />
+    <configuration name="FuncaoComoParam1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funcoes.FuncaoComoParam1Kt" />
       <module name="funcoes-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SegundoElementoListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funcoes.SegundoElementoListKt" />
+    <configuration name="FuncaoInfixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funcoes.FuncaoInfixKt" />
       <module name="funcoes-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FuncaoComoParam1Kt" />
         <item itemvalue="Kotlin.UnitReturnKt" />
         <item itemvalue="Kotlin.FuncaoInfixKt" />
         <item itemvalue="Kotlin.ArgumentosVariaveisKt" />
         <item itemvalue="Application.ChamandoFuncaoKotlin" />
-        <item itemvalue="Kotlin.SegundoElementoListKt" />
       </list>
     </recent_temporary>
   </component>
